@@ -32,9 +32,9 @@ Menjelaskan pernyataan masalah latar belakang:
 ### Goals
 
 Menjelaskan tujuan dari pernyataan masalah:
-- Meningkatkan kepuasan pelanggan
-- Optimasi biaya pemasaran
-- Meningkatkan retensi pelanggan
+- menigkatkan retensi pelanggan. memahami perilaku pelanggan dengan mengidentifikasi pelanggan yg berisiko tinggi berhenti membeli dengan mengambil tindakan pencegahan yg sesuai untuk mempertahankan
+- meningkatkan penjualan. Dengan menyediakan rekomendasi produk yang sesuai hingga unik dapat meningkatkan penjualan 
+- Mengoptimawsi biaya pemasaran. dengan mengidentifikasi segmen pelanggan yang lebih menjurus terhadap promosi tertentu, perusahaan dapat mengalokasikan sumber daya pemasaran lebih efektif.
 
 
 
